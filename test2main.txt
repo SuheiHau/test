@@ -5,3 +5,5 @@ Updated the navbar and the form for user login
 
 
 updated the register form  for user
+
+project's over
